@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Namebook</string>
+    <string name="name">Enter a name</string>
+    <string name="phone">Enter a phone number</string>
+    <string name="email">Enter an email address</string>
+    <string name="text">Enter a short text message</string>
+    <string name="show">SHOW</string>
+    <string name="save">SAVE</string>
+    <string name="clear">CLEAR</string>
+</resources>
